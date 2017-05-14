@@ -1,0 +1,39 @@
+.daohang{
+	background-image: url(../image/bj.png);
+	background-repeat: no-repeat;
+	width: 300px;height: 500px;
+	margin: 0px;
+}
+#headerdiv{
+	background-image: url(../image/header.png);
+	background-repeat: no-repeat;
+	width: 300px;height: 80px;
+	margin: 0px;
+}
+ul{
+	list-style-type: none;
+	color: black;
+}
+ul li{
+	background-image: url(../image/baibiaoti.png);
+	background-repeat: no-repeat;
+	width: 170px;height: 80px;
+	margin-left: -1em;
+	margin-bottom: -2em;
+	padding: 0px;
+	text-align: center;
+	line-height: 2.1em;
+}
+ul li a{
+	color: grey;
+	text-decoration: none;
+
+}
+.checked{
+	background-image: url(../image/lvbiaoti.png);
+	background-repeat: no-repeat;
+	margin-top: -1em;
+}
+.a{
+	color: white;
+}
